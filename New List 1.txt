@@ -1,0 +1,2 @@
+#membuat list baru
+#menggunakan append
